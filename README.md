@@ -4,41 +4,11 @@
 
 ### Overview
 * * *
-This repository presents a step by step approach for data wrangling, descriptive statistical analysis, predictive analysis, model development, model evaluation, and decision making. This project is a part of [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) course offered by [Coursera.org](https://www.coursera.org/). The dataset includes auto info provided in the course and could be downloaded from IBM cloud.
+This repository presents step by step approach to create an analytical web application (an interactive dashboard) using Dash library and Plotly graphing library. The analyses are carried on [Airline Reporting Carrier On-Time Performance dataset](https://developer.ibm.com/exchanges/data/all/airline/) from [Data Asset eXchange](https://developer.ibm.com/exchanges/data/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork20297740-2021-01-01&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork-20297740&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ)
 
-✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv)  
-✓ link to the description of each column of the dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names)  
-✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Descriptive_Statistical_Analysis_Auto_Dataset/blob/main/Code_Python.ipynb)   
-
-In this study:
-
-1) the following steps are carried out to address the missing values in the dataset, including:
-* replacing the missing values (? in here) with np.nan
-* finding the columns which include missing values and counting the number of elements with missing values
-* replacing the missing values with the average of the values in the column  
-
-2) the following steps are taken in order to prepare the data for data analysis:
-* normalizing the values based on the (value - average(column))/standard_deviation(column)
-* binning the columns into categorical groups (e.g., low, medium, and high)
-* Turning categorical variables into quantitative variables (e.g., 0 and 1)
-
-3) statistical descriptive analyses are performed using:
-* Chi-Square and analysis of variance (ANOVA) methods for columns with object data type
-* Pearsonr method for columns with numerical data type
-
-4) In_sample testing:
-* splitting the data into train and test data with test data include 30% of the overall data
-
-5) model development is performed using:
-* Simple linear regression model
-* Multi-linear regression model
-* 1-dimensional polynomial regression model
-* Multi-dimensional polynomial regression model
-
-6) model evaluation and decision making is carried out using the following statistical methods:
-* Mean Square Error (MSE)
-* R-Square
-  
+✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv)  
+✓ link to the glossary of the dataset [Link](https://dax-cdn.cdn.appdomain.cloud/dax-airline/1.0.1/data-preview/index.html?_ga=2.83976473.1025912384.1640558225-1040743284.1639660199)  
+✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Dashboarding_with_Python/blob/main/Notebook.ipynb)   
 
 
 ## About The Author

@@ -1,7 +1,4 @@
 ## Hands-on Practice Learning Lab for Data Science
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png"width="300" height="200" />
-</p>
 
 ![image](Dashboard.png)
 

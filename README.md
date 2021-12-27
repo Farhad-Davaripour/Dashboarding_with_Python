@@ -4,6 +4,8 @@
 
 ### Overview
 * * *
+This hands on practice lab is a part of [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?) course offered by [Coursera.org](https://www.coursera.org/).
+
 This repository presents step by step approach to create an analytical web application (an interactive dashboard) using Dash library and Plotly graphing library. The analyses are carried on [Airline Reporting Carrier On-Time Performance dataset](https://developer.ibm.com/exchanges/data/all/airline/) from [Data Asset eXchange](https://developer.ibm.com/exchanges/data/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork20297740-2021-01-01&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork-20297740&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ)
 
 ✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv)  

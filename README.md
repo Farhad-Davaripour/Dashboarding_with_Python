@@ -18,6 +18,5 @@ This repository presents step by step approach to create an interactive dashboar
 ![image](MyImage-GitHub.jpg)
 
 
-- Farhad Davaripour is a finite element specialist/data scientist with 3 years of experience working in research and development roles. He has a knack for problem-solving and passion for data science (He is in training).
-- Currently He is taking the data science fundamental courses as a part of IBM Data Science Professional Certificate. 
+- Farhad Davaripour is a finite element specialist/data science enthusiast with near 3 years of experience working in research and development roles. He has a knack for problem-solving and passion for data science (He is certified with [IBM Data Science Professional Certificate.](https://www.coursera.org/professional-certificates/ibm-data-science?#courses)).
 - Connect with Farhad on [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
